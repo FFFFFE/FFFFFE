@@ -1,5 +1,5 @@
 # ABOUT
-  Data Analyst with **5 years** of experience. My background in product teams, where each member played a specialized role, highlights my ability to manage the full analytics lifecycle—from translating business requirements into data-driven approaches to delivering tailored solutions using Python, SQL, and Excel. I take pride in fostering growth and collaboration, as demonstrated by my mentorship of interns.
+  Data Analyst with 5 years of experience. My background in product teams, where each member played a specialized role, highlights my ability to manage the full analytics lifecycle—from translating business requirements into data-driven approaches to delivering tailored solutions using Python, SQL, and Excel. I take pride in fostering growth and collaboration, as demonstrated by my mentorship of interns.
 
   My experience in analytics teams underscores my strength in teamwork and effective collaboration. Additionally, I have shown initiative by tackling challenging, non-standard tasks beyond the scope of my department, including leveraging machine learning, assisting cross-functional teams with their projects, and stepping into an auditor’s role. These efforts required building strong communication with external teams and applying advanced analytical methodologies.
 # SKILLS 
